@@ -85,7 +85,7 @@ public:
         delay(2000);
     }
 
-    void pauseAnimation(int ms = 2) { // Renamed for clarity
+    void pauseAnimation(int ms = 2) { 
         delay(ms);
     }
 
